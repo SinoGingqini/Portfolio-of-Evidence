@@ -73,10 +73,10 @@ Beyond my technical skills, I am committed to continuous learning and profession
 
 ## 6. Business Communication
 ### 6.1 Evidence
-<img width="1084" height="608" alt="Screenshot 2025-10-16 194054" src="https://github.com/user-attachments/assets/3a47d54a-8da1-4715-9914-c18cb4c0565c" />
-
 <img width="1915" height="867" alt="Screenshot 2025-10-16 105618" src="https://github.com/user-attachments/assets/5f254bac-aabb-4e0c-ac99-fda31fd5cc90" />
 
+https://uk.indeed.com/career-advice/career-development/formal-and-informal-communication
+I went on Indeed to learn about formal and informal communication that is when i learnt that Indeed gives you tools on how to communicate . 
 ### 6.2 Reflection 
 **Situation**: During our business communication sessions, I learned how effective communication forms the foundation of any professional environment. We focused on understanding different communication styles, workplace writing standards, and how to present information clearly and professionally.
 
@@ -89,6 +89,7 @@ Beyond my technical skills, I am committed to continuous learning and profession
 ## 7. Interview Skills
 ### 7.1 Evidence 
 <img width="1798" height="865" alt="Screenshot 2025-10-16 105726" src="https://github.com/user-attachments/assets/ae1c9794-a593-4472-b922-d344c807debc" />
+<img width="735" height="675" alt="Screenshot 2025-10-16 232656" src="https://github.com/user-attachments/assets/e5e231fe-38e0-410a-b590-7e7cf58c59e3" />
 
 ### 7.2 Reflection
 **Situation**: In our interview skills workshop, we were introduced to different types of interviews and the strategies required to succeed in them.
