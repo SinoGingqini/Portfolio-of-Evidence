@@ -120,6 +120,10 @@ https://github.com/user-attachments/assets/530bfffd-e07d-4d4e-81d9-704b44fddc73
 ## 9. Professional Networking 
 ### 9.1 Evidence 
 <img width="1798" height="859" alt="Screenshot 2025-10-16 110028" src="https://github.com/user-attachments/assets/665ad64f-0391-4e9c-8ecf-1e98ffb74c43" />
+![W4C2](https://github.com/user-attachments/assets/e993b11f-4afa-463c-8a05-34c4576737a4)
+
+
+![W4C1](https://github.com/user-attachments/assets/a4cef9de-670d-45ff-b65c-7727da554c4e)
 
 ### 9.2 Reflection
 **Situation**: Throughout the professional networking sessions, I learned how building connections in the ICT field can open opportunities for career development and mentorship.
