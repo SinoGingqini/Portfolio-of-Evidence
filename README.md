@@ -103,6 +103,10 @@ Beyond my technical skills, I am committed to continuous learning and profession
 ### 8.1 Evidence 
 <img width="1898" height="740" alt="Screenshot 2025-10-16 105858" src="https://github.com/user-attachments/assets/e519dd6a-1f7e-421d-9237-a776cadfbe85" />
 
+
+https://github.com/user-attachments/assets/530bfffd-e07d-4d4e-81d9-704b44fddc73
+
+
 ### 8.2 Reflection
 **Situation**: As part of our practical learning, I participated in a mock interview designed to simulate a real-world job interview experience.
 
