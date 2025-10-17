@@ -5,25 +5,31 @@ Student number: 230676529
 Course: Diploma ICT in Communication Networks  
 
 ## Introduction
-I am a dedicated and motivated ICT student at the Cape Peninsula University of Technology, pursuing a Diploma in Communication Networks. My academic and project work have helped me build strong technical and professional skills, particularly in areas such as network design, cloud computing, and IT systems management. I have developed hands-on experience working with Linux systems, network configuration, and cybersecurity tools, which has strengthened my ability to analyze problems and implement effective solutions.
+I am a dedicated and motivated ICT student at the Cape Peninsula University of Technology, pursuing a Diploma in Communication Networks. My academic and project work have helped me build strong technical and professional skills, particularly in areas such as network design, cloud computing, and IT systems management. I have developed hands on experience working with Linux systems, network configuration, and cybersecurity tools, which has strengthened my ability to analyze problems and implement effective solutions.
 
 Beyond my technical skills, I am committed to continuous learning and professional growth. Through my coursework and career development sessions, I have improved in areas such as communication, teamwork, workplace etiquette, and interview readiness. I aim to apply these skills in a professional ICT environment where I can contribute to innovative solutions, expand my experience, and grow into a specialized role in network or cloud engineering.
 
 ## 1. Career Counselling
 ### 1.1 Evidence 
 ![Screenshot 2025-05-21 004644](https://github.com/user-attachments/assets/f348bba5-cead-40ec-91d9-5468969ba1c4)
+
+*Figure 1: Following the career counselling session, I completed an assessment to demonstrate my understanding of Career Counselling and was proud to achieve a full score of 100%.*
+
 ### 1.2 Reflection  
 **Situation**: In the career counselling session, I was tasked with identifying the specific skills, knowledge, and experiences necessary for advancing in my career path.
 
 **Task**: Compare my existing skills with the requirements of my desired role and learn how to tailor my CV and cover letters to meet the expectations of specific employers.
 
-**Action**: Conducted a thorough self-evaluation to identify gaps in technical certifications, project leadership, and cross-functional teamwork. Compiled a comprehensive list of criteria for the role I aim to achieve. Brainstormed actionable steps, including obtaining industry-recognized certifications, signing up for online courses, seeking mentorship, and participating in stretch assignments and interdepartmental projects. Applied new knowledge on tailoring CVs and cover letters strategically to highlight relevant skills and experiences.
+**Action**: Conducted a thorough self evaluation to identify gaps in technical certifications, project leadership, and cross functional teamwork. Compiled a comprehensive list of criteria for the role I aim to achieve. Brainstormed actionable steps, including obtaining industry recognized certifications, signing up for online courses, seeking mentorship, and participating in stretch assignments and interdepartmental projects. Applied new knowledge on tailoring CVs and cover letters strategically to highlight relevant skills and experiences.
 
 **Result**: Identified clear gaps between my current skills and career goals, developed a detailed roadmap for professional growth, and gained confidence in presenting myself effectively to potential employers. I am now equipped to approach job applications strategically, with a clearer sense of direction and purpose.
 
 ## 2. Skills and Interest
 ### 2.1 Evidence
 ![Screenshot 2025-05-21 103341](https://github.com/user-attachments/assets/580b9b20-886e-49fd-8f74-476eb3db1d23)
+
+*Figure 2: After the skills and interest session, I completed an assessment to apply what I had learned about identifying my skills and interests, earning a perfect score of 100%.*
+
 ### 2.2 Reflection
 **Situation**: During the career counselling session on skills and interests, I was encouraged to reflect on my personal values, passions, and career aspirations.
 
@@ -36,6 +42,9 @@ Beyond my technical skills, I am committed to continuous learning and profession
 ## 3. Personal assessment
 ### 3.1 Evidence
 ![Screenshot 2025-05-21 110045](https://github.com/user-attachments/assets/7a7f885e-11de-4704-924f-904e1d624537)
+
+*Figure 3: At the end of the personal assessment session, I completed an assessment on Personality and Self Assessment and achieved 100%, reflecting my strong grasp of the topic.*
+
 ### 3.2 Reflection
 **Situation**: In the personality assessment session, I explored how my internal traits and external influences affect my career decisions.
 
@@ -48,18 +57,24 @@ Beyond my technical skills, I am committed to continuous learning and profession
 ## 4. Create a CV 
 ### 4.1 Evidence 
 ![Screenshot 2025-05-21 114648](https://github.com/user-attachments/assets/8a9773fb-270e-46ee-bbe0-bf67bac533af)
+
+*Figure 4: After completing the create a CV session, I wrote an assessment on effective CV creation and presentation, achieving a score of 100%.*
+
 ### 4.2 Reflection
 **Situation**: During the CV creation session, I needed to learn how to present my professional profile in a clear and effective way.
 
 **Task**: Understand the essential components of a CV and how to tailor it to target specific job roles and industries.
 
-**Action**: Structured the CV to include personal information, education, employment history, and relevant skills. Learned how to craft a well-structured cover letter that complements the CV, tells my personal story, and demonstrates alignment with the company’s needs. Paid attention to style, readability, and industry-specific standards.
+**Action**: Structured the CV to include personal information, education, employment history, and relevant skills. Learned how to craft a well structured cover letter that complements the CV, tells my personal story, and demonstrates alignment with the company’s needs. Paid attention to style, readability, and industry-specific standards.
 
-**Result**: Gained confidence in presenting myself professionally on paper. I now understand how to strategically use a CV and cover letter together to highlight my technical experience, achievements, and suitability for IT, networking, and cloud-related roles
+**Result**: Gained confidence in presenting myself professionally on paper. I now understand how to strategically use a CV and cover letter together to highlight my technical experience, achievements, and suitability for IT, networking, and cloud related roles
 
 ## 5. CV submission
 ### 5.1 Evidence
 ![Screenshot 2025-05-21 114648](https://github.com/user-attachments/assets/054ad22a-1e86-45f2-aa36-7888de2303b1)
+
+*Figure 5 : After completing the CV submission session, I wrote an assessment to test my understanding of CV writing and professional presentation, and I was pleased to achieve a perfect score of 100%.*
+
 [CV for submission.pdf](https://github.com/user-attachments/files/20366075/CV.for.submission.pdf)
 
 ### 5.2 Reflection
@@ -75,8 +90,12 @@ Beyond my technical skills, I am committed to continuous learning and profession
 ### 6.1 Evidence
 <img width="1915" height="867" alt="Screenshot 2025-10-16 105618" src="https://github.com/user-attachments/assets/5f254bac-aabb-4e0c-ac99-fda31fd5cc90" />
 
+*Figure 6: After the business communication session, I completed an assessment to test my understanding of Business Communication and achieved a 100% score.*
+
 https://uk.indeed.com/career-advice/career-development/formal-and-informal-communication
-I went on Indeed to learn about formal and informal communication that is when i learnt that Indeed gives you tools on how to communicate . 
+
+*Link: Exploring formal and informal communication methods through Indeed Career Resources. I went on Indeed to learn about formal and informal communication; that is when I learnt that Indeed gives you tools on how to communicate.*
+
 ### 6.2 Reflection 
 **Situation**: During our business communication sessions, I learned how effective communication forms the foundation of any professional environment. We focused on understanding different communication styles, workplace writing standards, and how to present information clearly and professionally.
 
@@ -89,7 +108,12 @@ I went on Indeed to learn about formal and informal communication that is when i
 ## 7. Interview Skills
 ### 7.1 Evidence 
 <img width="1798" height="865" alt="Screenshot 2025-10-16 105726" src="https://github.com/user-attachments/assets/ae1c9794-a593-4472-b922-d344c807debc" />
+
+*Figure 7: After the interview skills session, I completed an assessment to test my knowledge on Interview Skills and proudly achieved a 100% score.*
+
 <img width="735" height="675" alt="Screenshot 2025-10-16 232656" src="https://github.com/user-attachments/assets/e5e231fe-38e0-410a-b590-7e7cf58c59e3" />
+
+*Figure 8: Practicing how to answer interview questions using the STAR method to structure responses.*
 
 ### 7.2 Reflection
 **Situation**: In our interview skills workshop, we were introduced to different types of interviews and the strategies required to succeed in them.
@@ -104,9 +128,11 @@ I went on Indeed to learn about formal and informal communication that is when i
 ### 8.1 Evidence 
 <img width="1898" height="740" alt="Screenshot 2025-10-16 105858" src="https://github.com/user-attachments/assets/e519dd6a-1f7e-421d-9237-a776cadfbe85" />
 
+*Figure 9: After the mock interview session, I prepared and submitted my mock interview as part of the practical assessment.*
 
 https://github.com/user-attachments/assets/530bfffd-e07d-4d4e-81d9-704b44fddc73
 
+*Figure 10: This is the mock interview video I submitted for assessment, demonstrating my communication and presentation skills.*
 
 ### 8.2 Reflection
 **Situation**: As part of our practical learning, I participated in a mock interview designed to simulate a real-world job interview experience.
@@ -120,23 +146,27 @@ https://github.com/user-attachments/assets/530bfffd-e07d-4d4e-81d9-704b44fddc73
 ## 9. Professional Networking 
 ### 9.1 Evidence 
 <img width="1798" height="859" alt="Screenshot 2025-10-16 110028" src="https://github.com/user-attachments/assets/665ad64f-0391-4e9c-8ecf-1e98ffb74c43" />
-![W4C2](https://github.com/user-attachments/assets/e993b11f-4afa-463c-8a05-34c4576737a4)
 
+*Figure 11: After the professional networking session, I completed an assessment to test my understanding of Professional Networking and achieved a 100% score.*
 
-![W4C1](https://github.com/user-attachments/assets/a4cef9de-670d-45ff-b65c-7727da554c4e)
+![W4C3](https://github.com/user-attachments/assets/7f55c721-fecd-4f86-be29-499dd2e69609)
+
+*Figure 12: I attended a Women for Change event at AWS, where I had the opportunity to network and connect with professionals from different companies.*
 
 ### 9.2 Reflection
 **Situation**: Throughout the professional networking sessions, I learned how building connections in the ICT field can open opportunities for career development and mentorship.
 
 **Task**: My goal was to understand how to create and maintain professional relationships using both online platforms like LinkedIn and in-person events such as seminars and workshops.
 
-**Action**: I developed my LinkedIn profile, connected with professionals in my field, and engaged in discussions related to networking and cloud technologies. I also learned how to write introductory messages and maintain professional communication with potential employers or mentors.
+**Action**: I applied my networking knowledge by attending the AWS Women for Change event, where I met industry professionals and discussed cloud computing innovations. I also updated my LinkedIn profile, connected with ICT experts, and learned how to maintain meaningful professional relationships through consistent communication and engagement.
 
 **Result**: By applying these techniques, I built a small but meaningful network of contacts that align with my career goals. I now understand how networking contributes to career growth and plan to continue expanding my connections to stay informed about new technologies and job opportunities.
 
 ## 10. Workplace Etiquette
 ### 10.1 Evidence 
 <img width="1794" height="868" alt="Screenshot 2025-10-16 110123" src="https://github.com/user-attachments/assets/e98e9e45-6064-4749-849c-4170bef8c512" />
+
+*Figure 13: After the workplace etiquette session, I completed an assessment to test my knowledge on Workplace Etiquette and achieved a 100% score.*
 
 ### 10.2 Reflection
 **Situation**: In our workplace etiquette session, I explored the importance of professionalism, respect, and behavior in different workplace environments.
@@ -147,6 +177,8 @@ https://github.com/user-attachments/assets/530bfffd-e07d-4d4e-81d9-704b44fddc73
 
 **Result**: This session helped me understand that workplace etiquette reflects not only my personal values but also my professionalism. I am now better prepared to represent myself and my organization positively, ensuring I contribute to a respectful and productive work environment.
 
+## Conclusion
+Participating in the career development sessions has been a valuable learning journey that strengthened both my professional and personal growth. Each session helped me better understand my strengths, refine my communication and networking skills, and gain confidence in presenting myself as an aspiring IT professional. Through completing the assessments and activities, I developed a clearer sense of direction for my career in networking and cloud computing. I now feel more equipped to enter the workplace with a strong professional identity, a well-crafted CV, and a deeper understanding of the skills, etiquette, and mindset needed to succeed in the ICT industry.
 
 
 
